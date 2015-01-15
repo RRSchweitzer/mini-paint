@@ -6,6 +6,9 @@ a {
   text-decoration: none;
   color: black;
 }
+header {
+  margin-bottom: 20px;
+}
 
 hr {
   color: #fff;
@@ -20,9 +23,9 @@ div {
 div div {
     width: 1%;
     height: 2%;
-    outline: 1px solid #fff;
+    outline: 1px solid black;
     float: left;
-    background: black;
+    background: white;
 }
 
 .white {
